@@ -5,9 +5,9 @@ import { motion } from 'framer-motion';
 export const Hero = () => {
   return (
     <motion.div
-      initial={{ opacity: 0, y: -20 }}
-      animate={{ opacity: 1, y: 0 }}
-      transition={{ duration: 1 }}
+      initial={{ opacity: 0, y: -30 }}
+      animate={{ opacity: 2, y: 0 }}
+      transition={{ duration: 2 }}
       className="bg-gray-200 p-8 text-center"
     >
       <h1 className="text-4xl font-semibold mb-4">Welcome to Our Community</h1>
