@@ -7,7 +7,7 @@ const CallToAction = () => {
       <div className="container mx-auto text-center">
         <h2 className="text-4xl font-semibold mb-4">Join Us Now</h2>
         <p className="text-lg mb-6">
-          Sign up to get early access and receive exciting offers!
+          Sign up to get early access to our community!
         </p>
         <button className="bg-white text-blue-500 py-2 px-4 rounded">
           Sign Up
